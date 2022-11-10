@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(247, 246, 236);
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    list-style-position:inside
+}
+
+
+/* class -> .text-red {}  */
+/* id -> #id-bilgisi {} */
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: 30px;
+    color: rgb(149, 73, 11);
+}
+
+p {
+    font-size: 20px;
+    color: rgb(25, 197, 140);
+}
+.text-blue {
+    color: blue;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font: size 20px;
+}
+
+.fs-30 {
+    font: 30px;
+}
+
+#list-elamani{
+    font-size: 20px;
+    color: rgb(25, 197, 140);
+}
+
